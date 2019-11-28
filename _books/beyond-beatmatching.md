@@ -1,0 +1,6 @@
+---
+layout: page
+title: "Beyond Beatmatching: Take Your DJ Career to the Next Level"
+image_path: https://images-na.ssl-images-amazon.com/images/I/41mjCSoKppL._SX302_BO1,204,203,200_.jpg
+---
+The team behind Mixed In Key software explores the art of professional DJing to answer one simple question: What can you do to become a better DJ? Beyond Beatmatching will show you how to: - Use harmonic mixing in your DJ sets - Mix with energy levels in mind - Dig for the most unique tracks and define your sound - Build a perfect DJ laptop - Mix a flawless DJ set - Create your own mashups - Get gigs at nightclubs and festivals - Build your brand with a logo design, publicity shots and press kit - Use Facebook and social media to expand your audience The book also features in-depth interviews with key DJs, innovators and executives, including Markus Schulz, DJ Sasha, A-list manager Ash Pournouri, talent booker Biz Martinez, marketing guru Karl Detken, and many more. Written in a user-friendly, straightforward tone and rife with valuable insights about the history (and future) of modern DJing, Beyond Beatmatching covers ground that no guide to DJing has attempted to date. Get this book today and discover a wealth of advanced techniques already known to the world's best DJs.

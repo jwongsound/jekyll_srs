@@ -1,0 +1,11 @@
+---
+layout: book
+title: Books
+---
+{% for book in site.books %}
+<div class="book">
+    <img src="{{book.image_path}}">
+    {{ book.content }}
+</div>
+
+{% endfor %}
